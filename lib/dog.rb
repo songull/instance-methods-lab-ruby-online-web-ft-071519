@@ -2,9 +2,9 @@ class Dog
 
 def sitting
   puts "The Dog is sitting"
-end
 def bark
   puts "Woof!"
+end
 end
 end
 fido = Dog.new
